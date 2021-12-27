@@ -9,7 +9,7 @@
 O dashboard pode ser visualizado online e de maneira interativa clicando na imagem abaixo:
 
 <p align="center">
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWQyMjBjNWYtZjZmNS00ZmVhLWE5ZDMtMTBlNGEzNWNkODZkIiwidCI6ImMwZDAzYmU4LTdkNWUtNGVkMS04MGJkLWQxZDIwYmExNGE3MSJ9&pageName=ReportSection"><img src="https://i.imgur.com/Dbbj8Gh.jpg"></a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWQyMjBjNWYtZjZmNS00ZmVhLWE5ZDMtMTBlNGEzNWNkODZkIiwidCI6ImMwZDAzYmU4LTdkNWUtNGVkMS04MGJkLWQxZDIwYmExNGE3MSJ9&pageName=ReportSection"><img src="https://i.imgur.com/tj8ai21.png"></a>
 </p>
 
 ## Caso
@@ -205,7 +205,7 @@ Dessa maneira, fica evidente que caso o usuário seja mulher, geralmente, o IMC 
 #### 10. Se for homem, com mais de 50 anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região?
 
 <p align="center">
-  <img src="https://i.imgur.com/ghCaLoG.png"/>
+  <img src="https://i.imgur.com/pMvciVK.png"/>
 </p>
 
 A utilização de filtros nos dashboards são facilitadores para que os usuários possam encontrar as informações que querem de maneira mais específica e mais rápida.
